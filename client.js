@@ -42,7 +42,7 @@ function init(bundle, parent, options = {}) {
     buttonsPanel
   );
 
-  r360.compositor.setBackground(r360.getAssetURL('images/front_door.jpg'));
+  r360.compositor.setBackground(r360.getAssetURL('images/AdobeStock_111092927.jpeg'));
 }
 
 window.React360 = {init};
