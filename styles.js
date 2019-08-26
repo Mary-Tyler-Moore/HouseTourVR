@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
     opacity: 0.8,
     backgroundColor: '#7d6855',
     borderColor: 'rgb(255, 255, 255)',
-    borderWidth: 5,
+    borderWidth: 8,
     borderRadius: 20,
   },
   buttonPanel: {
@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     opacity: 0.8,
     backgroundColor: '#7d6855',
     borderColor: 'rgb(255, 255, 255)',
-    borderWidth: 5,
+    borderWidth: 8,
     borderRadius: 30,
     flexDirection: 'column',
     justifyContent: 'space-around',
