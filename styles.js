@@ -12,7 +12,7 @@ const styles = StyleSheet.create({
     width: 400,
     height: 400,
     opacity: 0.8,
-    backgroundColor: #7d6855,
+    backgroundColor: '#7d6855',
     borderColor: 'rgb(255, 255, 255)',
     borderWidth: 5,
     borderRadius: 20,
