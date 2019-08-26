@@ -1,2 +1,1 @@
-# HouseTourVR
-A remastered version of my original HouseTourVR project. The difference with this project is that the state is managed by Redux.
+This is a project forked from drubio1989. I plan on working with the code to better understand React VR and React 360.
