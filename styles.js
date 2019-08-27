@@ -16,6 +16,8 @@ const styles = StyleSheet.create({
     borderColor: 'rgb(255, 255, 255)',
     borderWidth: 8,
     borderRadius: 20,
+    -moz-border-radius: 20, 
+    -webkit-border-radius: 20,
   },
   buttonPanel: {
     width: 400,
