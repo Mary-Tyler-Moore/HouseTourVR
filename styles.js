@@ -13,10 +13,9 @@ const styles = StyleSheet.create({
     height: 400,
     opacity: 0.8,
     backgroundColor: '#7d6855',
-    borderColor: 'rgb(255, 255, 255)',
+    borderColor: 'rgb(255, 255, 255, 0)',
     borderWidth: 8,
-    borderRadius: 20,
-    border: 0
+    borderRadius: 20
   },
   buttonPanel: {
     width: 400,
